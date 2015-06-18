@@ -1,11 +1,10 @@
 === Find Your Reps ===
-Contributors:  kathleenfmalone
+Contributors:  kathleenfmalone, homergz
 Plugin website: http://www.getontheagenda.com
-Tags: find state representatives, find state legislators, representative, legislator, state legislature, legislature
+Tags: find state representatives, find state legislators, representative, legislator, state legislature, legislature, vote
 Requires at least: 3.5.2
-Tested up to: 3.5.2
-Stable tag: 1.0
-Version: 1.0
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 or later
 
 Find your state representatives by entering a street address.
@@ -24,6 +23,14 @@ address and capitol office address is returned to them.
 4. Configure the plugin via the Find Your Reps link that appears in the Settings Menu section of the left sidebar in the backend.
 5. The plugin requires an activation key from the Sunlight Foundation. The key can be acquired by registering at http://sunlightfoundation.com/api/accounts/register/.  
 
-= 1.0.0 =
+== Changelog ==
 
-  * Initial release
+= 1.0 =
+* Initial release
+
+= 1.1 =
+*Release Date - June 17, 2015*
+
+* Fixed: Headers already sent warning notice
+* Fixed: Typos
+* Updated: Options page code

@@ -29,7 +29,7 @@
 
              for (var i = 0; i < this.offices.length; i++) {
                  if (this.offices[i].name == "District Office") {
-                     fyr_officesElement.innerHTML += "<br><br><b>Distric Office<br></b>" + this.offices[i].address.replace(/\n/g, "<br>");
+                     fyr_officesElement.innerHTML += "<br><br><b>District Office<br></b>" + this.offices[i].address.replace(/\n/g, "<br>");
                      if (this.offices[i].phone != null) { fyr_officesElement.innerHTML += "<br>" + this.offices[i].phone; }
                      
                  }

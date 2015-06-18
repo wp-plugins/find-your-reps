@@ -2,11 +2,10 @@
     
 /**
  * @package Find Your State Representatives
- * @version 1.0
  */
 /*
 Plugin Name: Find Your Representatives
-Plugin URI: http://getontheagenda.com
+Plugin URI: https://wordpress.org/plugins/find-your-reps/
 Description: This plugin finds your state representatives by street address and returns their 
 names, photos, websites, email addresses and district and capitol office addresses. The plugin uses 
 state representative data from openstates.org's API. The use of openstate.org's API requires a key 
@@ -14,8 +13,8 @@ from the Sunlight Foundation. A key can be acquired by registering at http://sun
 The key must be entered on the plugin's settings page.
 Author: Kathleen Malone
 Author Email: kathleenfmalone@gmail.com
-Version: 1.0
-Author URI: http://none
+Version: 1.1
+Author URI: https://profiles.wordpress.org/kathleenfmalone/
 */
 
 if (is_admin() ) {
